@@ -7,4 +7,4 @@ export const overrideStyle ={
     height:"24px"
    }
 
-export const socket = io('http://localhost:5000')
+export const socket = io('https://backend-ecommerce-api-2zqg.onrender.com')
